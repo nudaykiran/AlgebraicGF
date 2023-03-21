@@ -1,6 +1,6 @@
 # A restricted q-product based generalization Ramanujan sum, which we call as Gaussian-Ramanujan sum
 
-# Usage: GRS-table(k) gives the table of values for k, where k is a positive integer. 
+# Usage: GRS_table(k) gives the table of values for k, where k is a positive integer. 
 
 
 def GRS(k,j):
